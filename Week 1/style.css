@@ -1,0 +1,15 @@
+ul {
+  list-style-type: armenian;
+}
+
+.heading {
+  text-shadow: 1px 1px gray;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.underline {
+  text-decoration: underline;
+}
